@@ -1,3 +1,5 @@
+#!/usr/bin/python   
+print('Content-type: text/html\r\n\r')
 print("password checker")
 import time
 print("A good password should have an uppercase letter, a lowercase letter, a symbol, and a number. \nIt should also be longer then 6 characters.")
